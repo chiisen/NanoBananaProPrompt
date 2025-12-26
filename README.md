@@ -1,6 +1,8 @@
 # NanoBananaProPrompt
 NanoBananaPro 提示詞  
 
+![NanoBananaProPrompt](./images/NanoBananaProPrompt.png)
+
 ## 配置
 1. 需要配置 .env 檔案內的 Gemini API Key 環境變數  
     - GEMINI_3_API_KEY  

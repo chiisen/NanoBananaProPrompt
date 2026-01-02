@@ -1,5 +1,6 @@
 # NanoBananaProPrompt
-NanoBananaPro 提示詞  
+提供 Nano Banana Pro 網頁界面，可以快速選擇輸出類型產生提示詞。    
+目前提供:漫畫、LINE貼圖、、商業廣告、海報設計、等等....  
 
 ![NanoBananaProPrompt](./images/NanoBananaProPrompt.png)
 
